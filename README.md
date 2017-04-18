@@ -91,6 +91,12 @@ Vatnajökull National Park 内。
 
 ![草皮屋教堂](https://pic1.qyer.com/album/user/2170/15/Q0hSQhsCaUA/index/980x576)
 
+### 住宿
+Hali
+- [Skyrhúsid Guest House](https://www.booking.com/hotel/is/skyrhusid-guesthouse.zh-cn.html)
+
+# Day 5
+
 ### 冰河湖 - Jökulsárlón / Glacier lagoon
 可坐游船游览，时长1小时。票价人民币350左右。
 
@@ -101,21 +107,16 @@ Vatnajökull National Park 内。
 ![Diamond Beach](https://i.ytimg.com/vi/csoPfHfeyV4/maxresdefault.jpg)
 
 ### 龙虾餐厅 - Humarhöfnin
-
-### 住宿
-Höfn
-- [Höfn Hostel](https://www.booking.com/hotel/is/hofn-hostel.zh-cn.html)
-
-# Day 5
-
-### 塞济斯菲厄泽 - Seyðisfjörður
-湖畔小镇。
+到 Höfn 一定要吃龙虾~
 
 ### 拉加尔湖 - Lagarfljot
 据说有水怪的湖泊，1号公路旁。湖边有个小镇，可停留。
 
+### 塞济斯菲厄泽 - Seyðisfjörður
+湖畔小镇。
+
 ### Borgarfjörður Eystri
-94号公路尽头的观鸟点。春夏为观赏季节，9月后基本遇不到了。是否前往根据当天情况。
+94号公路尽头的观鸟点。春夏为观赏季节，9月后基本遇不到了。如要前往，
 
 ### 住宿
 Egilsstadir
