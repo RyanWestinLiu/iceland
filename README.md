@@ -116,11 +116,11 @@ Hali
 湖畔小镇。
 
 ### Borgarfjörður Eystri
-94号公路尽头的观鸟点。春夏为观赏季节，9月后基本遇不到了。如要前往，
+94号公路尽头的观鸟点。春夏为观赏季节，9月后基本遇不到了。根据当天情况决定是否前往。
 
 ### 住宿
 Egilsstadir
-- [Birta Guesthouse](https://www.booking.com/hotel/is/birta-guesthouse-egilsstadir.zh-cn.html) 
+- [Birta Guesthouse](https://www.booking.com/hotel/is/birta-guesthouse-egilsstadir.zh-cn.html)
 - [Laufás Guesthouse](https://www.booking.com/hotel/is/guesthouse-ormurinn.zh-cn.html)
 
 # Day 6
