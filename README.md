@@ -9,6 +9,8 @@
 
 # Day 2
 
+![day_2_map](https://github.com/RyanWestinLiu/iceland/raw/master/map/day_2.png)
+
 ### 辛格韦德利国家公园 - Þingvellir National Park
 全程约两小时。
 
@@ -37,6 +39,8 @@ Hvolsvöllur
 - [Hotel Kanslarinn](https://www.booking.com/hotel/is/kanslarinn-hella.zh-cn.html) Hella 有早餐
 
 # Day 3
+
+![day_3_map](https://github.com/RyanWestinLiu/iceland/raw/master/map/day_3.png)
 
 ### 塞里雅兰瀑布 - Seljalandsfoss
 1号公路旁，路过。
@@ -75,6 +79,8 @@ Vik：风景优美，客房紧张，价格较贵。
 
 # Day 4
 
+![day_4_map](https://github.com/RyanWestinLiu/iceland/raw/master/map/day_4.png)
+
 ### 瓦特纳冰原 - Vatnajökull
 欧洲最大冰盖。报团冰川徒步，众多网友极力推荐。有9月30号就关闭线路的先例。
 
@@ -100,6 +106,8 @@ Hali
 - [Skyrhúsid Guest House](https://www.booking.com/hotel/is/skyrhusid-guesthouse.zh-cn.html)
 
 # Day 5
+
+![day_5_map](https://github.com/RyanWestinLiu/iceland/raw/master/map/day_5.png)
 
 ### 冰河湖 - Jökulsárlón / Glacier lagoon
 可坐游船游览，时长1小时。票价人民币350左右。
@@ -129,6 +137,8 @@ Egilsstadir
 
 # Day 6
 
+![day_6_map](https://github.com/RyanWestinLiu/iceland/raw/master/map/day_6.png)
+
 ### 黛提瀑布 - Dettifoss
 
 ![黛提瀑布](https://pic1.qyer.com/album/user/592/63/REBXRBkCZw/index/980x576)
@@ -155,6 +165,8 @@ Egilsstadir
 
 # Day 7
 
+就在米湖附近转悠
+
 ### 熔岩陆岬 - Höfði in Myvatn
 
 ![熔岩陆岬](https://pic1.qyer.com/album/user/1406/65/QE1VRBwCZkk/index/980x576)
@@ -175,7 +187,10 @@ Egilsstadir
 -[Dimmuborgir Guesthouse](https://www.booking.com/hotel/is/dimmuborgir-guesthouse.zh-cn.html) 四人
 
 # Day 8
+
 这一天车程较长，但景点很少，如果没有兴趣，可直接略过。
+
+![day_8_map](https://github.com/RyanWestinLiu/iceland/raw/master/map/day_8.png)
 
 ### 神之瀑布 - Goðafoss
 ![神之瀑布](https://pic.qyer.com/album/user/2051/89/Q0lQQxIOZkg/index/980x576)
@@ -187,23 +202,32 @@ Egilsstadir
 ![犀牛石](https://pic1.qyer.com/album/user/1608/55/QE9VSh8CZk8/index/980x576)
 
 # Day 9
+
+![day_9_map](https://github.com/RyanWestinLiu/iceland/raw/master/map/day_9.png)
+
 ### 斯蒂基斯霍尔米大教堂 - Stykkisholmskirkja
 ### 布雷扎湾 - Breiðafjörður
 ### 格伦达菲厄泽 - Grundarfjörður
 ### 教会山 - Kirkjufell Mountain
-
-# Day 10
 ### 欧拉夫斯维克 - Olafsvik
 ### 斯奈菲尔火山 - Snæfellsjökull
 ### Vatnshellir Cave
 ### 布迪尔黑教堂 - Buðakirkja
 
-提早到 Reykjavik 可去体验火山洞探险
+# Day 10
+
+休闲为主，逛下商场什么的。
+
+### 体验火山洞探险 - Thrihnukagigur volcano
 
 ![火山洞](https://pic.qyer.com/album/user/2168/51/Q0hTSh8GZkg/index/980x576)
 
-# Day 11
 ### 蓝湖 - Blue Lagoon
+泡温泉咯~
+
+![蓝湖](https://pic1.qyer.com/album/user/371/51/Qk5URxsEaQ/index/980x576)
+
+# Day 11
 ### 哈尔格林姆斯大教堂 - Hallgrímskirkja
 ### 冰岛国家博物馆 - National Museum of Iceland
 ### 哈帕音乐厅和会议中心 - Harpa
