@@ -200,7 +200,7 @@ Egilsstadir
 
 提早到 Reykjavik 可去体验火山洞探险
 
-!(火山洞)[https://pic.qyer.com/album/user/2168/51/Q0hTSh8GZkg/index/980x576]
+![火山洞](https://pic.qyer.com/album/user/2168/51/Q0hTSh8GZkg/index/980x576)
 
 # Day 11
 ### 蓝湖 - Blue Lagoon
