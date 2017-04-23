@@ -24,6 +24,10 @@
 
 ![黄金瀑布](https://pic.qyer.com/album/user/376/69/Qk5TRBMOYw/index/980x576)
 
+此处有冰原摩托体验
+
+![冰原摩托](http://pic4.qyer.com/lastminute/supplier/656307914518914229248022)
+
 ### Kerið火山口湖 - Kerid Crater
 夏天的景色好，冬天一般。根据当天情况决定是否前往。
 
@@ -58,7 +62,7 @@ Hvolsvöllur
 
 ### 黑沙滩 - Reynisfjara
 
-![黑沙滩](https://pic.qyer.com/album/user/996/8/SEBTQhIEaQ/index/980x576)
+![黑沙滩](https://pic1.qyer.com/album/user/2188/12/Q0hdShsFZUg/index/980x576)
 
 ### 维克镇教堂 - Vik Church
 
@@ -157,7 +161,7 @@ Egilsstadir
 
 ### Grjótagjá cave
 
-![Grjótagjá cave(https://pic.qyer.com/album/user/1117/67/QEhURRwAYUo/index/980x576)
+![Grjótagjá cave](https://pic.qyer.com/album/user/1117/67/QEhURRwAYUo/index/980x576)
 
 ### 惠尔火山口 - Hverfjall
 
@@ -171,20 +175,34 @@ Egilsstadir
 -[Dimmuborgir Guesthouse](https://www.booking.com/hotel/is/dimmuborgir-guesthouse.zh-cn.html) 四人
 
 # Day 8
+这一天车程较长，但景点很少，如果没有兴趣，可直接略过。
 
 ### 神之瀑布 - Goðafoss
+![神之瀑布](https://pic.qyer.com/album/user/2051/89/Q0lQQxIOZkg/index/980x576)
+
+### 阿克雷里大教堂 - Akureyri church
+![阿克雷里大教堂](https://pic.qyer.com/album/user/1850/53/QEFQQh8EZko/index/980x576)
+
+### 犀牛石 - Hvitserkur
+![犀牛石](https://pic1.qyer.com/album/user/1608/55/QE9VSh8CZk8/index/980x576)
+
+# Day 9
 ### 斯蒂基斯霍尔米大教堂 - Stykkisholmskirkja
 ### 布雷扎湾 - Breiðafjörður
 ### 格伦达菲厄泽 - Grundarfjörður
 ### 教会山 - Kirkjufell Mountain
 
-# Day 9
+# Day 10
 ### 欧拉夫斯维克 - Olafsvik
 ### 斯奈菲尔火山 - Snæfellsjökull
 ### Vatnshellir Cave
 ### 布迪尔黑教堂 - Buðakirkja
 
-# Day 10
+提早到 Reykjavik 可去体验火山洞探险
+
+!(火山洞)[https://pic.qyer.com/album/user/2168/51/Q0hTSh8GZkg/index/980x576]
+
+# Day 11
 ### 蓝湖 - Blue Lagoon
 ### 哈尔格林姆斯大教堂 - Hallgrímskirkja
 ### 冰岛国家博物馆 - National Museum of Iceland
