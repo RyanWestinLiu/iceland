@@ -42,6 +42,10 @@ Hvolsvöllur
 
 ![day_3_map](https://github.com/RyanWestinLiu/iceland/raw/master/map/day_3.png)
 
+### Þórsmörk
+
+![Þórsmörk](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/%C3%9E%C3%B3rsm%C3%B6rk.jpeg/1200px-%C3%9E%C3%B3rsm%C3%B6rk.jpeg)
+
 ### 塞里雅兰瀑布 - Seljalandsfoss
 1号公路旁，路过。
 
