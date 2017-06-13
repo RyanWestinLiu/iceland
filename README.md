@@ -75,7 +75,7 @@ Geysir、Gullfoss Falls、Kerið 都不是非常大的景点，游览时间可�
 - Hverfjall
 - Dimmuborgir
 - Hofdi
-- * Dettifoss 来回车程1个半小时。
+- *Dettifoss 来回车程1个半小时。
 
 #### Husavik
 12:00到达。从米湖出发车程40分钟。吃午饭，13:15 观鲸，时长3小时。
