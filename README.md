@@ -19,7 +19,7 @@
 火山口湖，小景点，如果没有意愿或天色不好，可以略过。
 
 ### 住宿
-![Skíðbakki 2](https://www.google.com/maps/place/Sk%C3%AD%C3%B0bakki+2/@63.6059798,-20.2525754,14z/data=!4m12!1m6!3m5!1s0x48d7033be4fcb7f1:0xd176da281d15c367!2zU2vDrcOwYmFra2kgMg!8m2!3d63.6060227!4d-20.233757!3m4!1s0x48d7033be4fcb7f1:0xd176da281d15c367!8m2!3d63.6060227!4d-20.233757)
+[Skíðbakki 2](https://www.google.com/maps/place/Sk%C3%AD%C3%B0bakki+2/@63.6059798,-20.2525754,14z/data=!4m12!1m6!3m5!1s0x48d7033be4fcb7f1:0xd176da281d15c367!2zU2vDrcOwYmFra2kgMg!8m2!3d63.6060227!4d-20.233757!3m4!1s0x48d7033be4fcb7f1:0xd176da281d15c367!8m2!3d63.6060227!4d-20.233757)
 
 17:30 出发前往，车程1小时。房东要求19:00后入住。
 
@@ -125,4 +125,4 @@ Geysir、Gullfoss Falls、Kerið 都不是非常大的景点，游览时间可�
 #### Blue Lagoon
 
 ### 住宿
-![Faxabraut 30](https://www.google.com/maps/place/Faxabraut+30,+Keflav%C3%ADk,+%E5%86%B0%E5%B2%9B/@63.9975879,-22.557428,17z/data=!3m1!4b1!4m5!3m4!1s0x48d60218076115d1:0x60d71c247e267815!8m2!3d63.9975879!4d-22.5552393)
+[Faxabraut 30](https://www.google.com/maps/place/Faxabraut+30,+Keflav%C3%ADk,+%E5%86%B0%E5%B2%9B/@63.9975879,-22.557428,17z/data=!3m1!4b1!4m5!3m4!1s0x48d60218076115d1:0x60d71c247e267815!8m2!3d63.9975879!4d-22.5552393)
